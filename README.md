@@ -1,5 +1,3 @@
-# cod4348828f6fe44815ea1a3a
-
 Quick start:
 
 ```
